@@ -1,6 +1,7 @@
 # titanicon
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/JohnCoene/titanicon.svg?branch=master)](https://travis-ci.org/JohnCoene/titanicon)
 <!-- badges: end -->
 
 Brings [Titanic animated icons](https://icons8.com/c/animated-icons) to Shiny and Rmarkdown.
