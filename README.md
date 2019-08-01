@@ -15,7 +15,7 @@ remotes::install_github("rinterface/titanicon")
 
 ## Example
 
-Browse all icon with:
+Browse all icons with:
 
 ```r
 titanicon::titanicon_demo()
