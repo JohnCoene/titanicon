@@ -10,7 +10,7 @@ Brings [Titanic animated icons](https://icons8.com/c/animated-icons) to Shiny an
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("rinterface/titanicon")
+remotes::install_github("johncoene/titanicon")
 ```
 
 ## Example
